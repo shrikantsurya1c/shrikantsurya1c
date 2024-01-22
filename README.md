@@ -18,7 +18,7 @@
 
 - 📫 How to reach me -> **shkantsur15@gmail.com**
 
-- 📄 Know about my experiences -> [ Click to Open Resume ](https://drive.google.com/file/d/1byCUMHHkOFgPe7ymnc6lCta6CLiB13u9/view?usp=drivesdk)
+- 📄 Know about my experiences -> [ Click to Open Resume ](https://drive.google.com/file/d/1l1ShjEIhbXY8cXJ5lN8wVViYXOl_GAG8/view?usp=drivesdk)
 
 - ⚡ Fun fact -> **I am lazy but smart**
 
