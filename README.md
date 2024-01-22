@@ -5,7 +5,7 @@
 
 <h5> &nbsp; </h5>
 
-<img align="right"  alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<img align="right"  alt="Coding" width="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
 - 🔭 I’m currently working on -> **AD Infocom Systems**
