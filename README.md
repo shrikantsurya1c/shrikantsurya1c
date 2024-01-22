@@ -34,10 +34,9 @@
 [![](https://visitcount.itsvg.in/api?id=Surya1c&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
-![](https://github-readme-stats.vercel.app/api?username=shrikantsurya1c&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrikantsurya1c&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantsurya1c&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikantsurya1c&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrikantsurya1c" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikantsurya1c&show_icons=true&theme=dark&locale=en" alt="shrikantsurya1c" /></p>
 
 
 ## ✍️ Random Dev Quote:
