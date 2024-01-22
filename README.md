@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Shrikant Surya</h1>
 <h3 align="center">A Passionate Android developer from India</h3>
 
-<h3> &nbsp; </h3>
+<h5> &nbsp; </h5>
 
 <img align="right"  alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+
 
 - 🔭 I’m currently working on -> **AD Infocom Systems**
 
@@ -21,6 +22,7 @@
 
 - ⚡ Fun fact -> **I am lazy but smart**
 
+[![](https://visitcount.itsvg.in/api?id=Surya1c&icon=2&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/701687874478669936) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrikant-suryawanshi-7597591bb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23280233) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shkantsur) 
 
@@ -29,6 +31,8 @@
 
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=shrikantsurya1c&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=Surya1c&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shrikantsurya1c&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
