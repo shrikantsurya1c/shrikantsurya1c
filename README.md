@@ -8,7 +8,7 @@
 <img align="right"  alt="Coding" width="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
-- 🔭 I’m currently working on -> **AD Infocom Systems**
+- 🔭 I’m currently working on -> **Native Android Development**
 
 - 🌱 I’m currently learning -> **Jetpack Compose and Flutter**
 
