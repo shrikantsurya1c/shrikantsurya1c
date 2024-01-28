@@ -8,7 +8,7 @@
 <img align="right"  alt="Coding" width="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
-- 🔭 I’m currently working on -> **Native Android Development**
+- 🔭 I’m currently working on -> **AD Infocom Systems**
 
 - 🌱 I’m currently learning -> **Jetpack Compose and Flutter**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me -> **shkantsur15@gmail.com**
 
-- 📄 Know about my experiences -> [ Click to Open Resume ](https://drive.google.com/file/d/1l1ShjEIhbXY8cXJ5lN8wVViYXOl_GAG8/view?usp=drivesdk)
+- 📄 Know about my experiences -> [ Link ](https://drive.google.com/file/d/1l1ShjEIhbXY8cXJ5lN8wVViYXOl_GAG8/view?usp=drivesdk)
 
 - ⚡ Fun fact -> **I am lazy but smart**
 
