@@ -8,9 +8,9 @@
 <img align="right"  alt="Coding" width="300" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
-- 🔭 I’m currently working on -> **AD Infocom Systems**
+- 🔭 Intern at -> **AD Infocom Systems**
 
-- 🌱 I’m currently learning -> **PowerBi and TableAU**
+- 🌱 Expertise in -> **PowerBi, Python and SQL**
 
 - 📫 How to reach me -> **shkantsur15@gmail.com**
 
