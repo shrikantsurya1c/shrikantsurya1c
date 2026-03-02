@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://surya1c.io)
 
 <h1 align="center">Hi 👋, I'm Shrikant Surya</h1>
-<h3 align="center">Data Analyst, Ex- Android Developer from India</h3>
+<h3 align="center">Backend Developer, Ex- Android Developer from India</h3>
 
 <h5> &nbsp; </h5>
 
